@@ -1,3 +1,28 @@
+
+<!DOCTYPE HTML>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="refresh" content="0; url=https://myshortcuts.ga/home.html">
+        <script type="text/javascript">
+            window.location.href = "https://myshortcuts.ga/home.html"
+        </script>
+        <title>Page Redirection</title>
+    </head>
+    <body>
+        <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
+        If you are not redirected automatically, follow this <a href='https://myshortcuts.ga/home.html'>link to example</a>.
+    </body>
+</html>
+
+
+
+
+
+<p><a href="https://myshortcuts.ga/home.html">Redirect</a></p>
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sumitdang83/commoninto/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
